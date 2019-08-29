@@ -3,7 +3,7 @@ import React from 'react';
 const AboutPageTechnical = () => {
   return (
     <>
-      <h1>
+      <h1 style={{ textAlign: 'center' }}>
         The real important stuff
         <span role="img" aria-label="hand">
           😎

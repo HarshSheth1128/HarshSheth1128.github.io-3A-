@@ -3,8 +3,8 @@ import React from 'react';
 const AboutPagePersonal = () => {
   return (
     <>
-      <h1>
-        Hi There
+      <h1 style={{ textAlign: 'center' }}>
+        Hi There!&nbsp;
         <span role="img" aria-label="hand">
           👋🏽
         </span>

@@ -3,6 +3,7 @@ import ContentSwitch from '../common/ContentSwitch';
 import AboutPagePersonal from './AboutPagePersonal';
 import './AboutPage.scss';
 import AboutPageTechnical from './AboutPageTechnical';
+import AboutPageSwitch from './AboutPageSwitch';
 
 class AboutPage extends Component {
   constructor(props) {
@@ -12,9 +13,9 @@ class AboutPage extends Component {
     };
   }
 
-  componentWillMount() {
-    console.log(this.state.index);
-  }
+  setPageState = (property, value) => {
+    this.setState({ [property]: value });
+  };
 
   render() {
     return (
@@ -23,6 +24,10 @@ class AboutPage extends Component {
           <AboutPagePersonal />
           <AboutPageTechnical />
         </ContentSwitch>
+        <AboutPageSwitch
+          index={this.state.index}
+          setPageState={this.setPageState}
+        />
       </div>
     );
   }

@@ -1,0 +1,29 @@
+.AboutPageSwitch {
+  display: flex;
+  flex-direction: row;
+  font-size: 1.2rem;
+  margin-top: 50px;
+}
+
+$activeColor: white;
+$inactiveColor: #8d8c8c;
+$switchTextPadding: 20px;
+
+.ActiveSwitch {
+  border-top: solid $activeColor 5px;
+  border-bottom: solid $activeColor 5px;
+  padding-left: $switchTextPadding;
+  padding-right: $switchTextPadding;
+}
+
+.InactiveSwitch {
+  border-top: solid $inactiveColor 5px;
+  border-bottom: solid $inactiveColor 5px;
+  padding-left: $switchTextPadding;
+  padding-right: $switchTextPadding;
+}
+
+.InactiveSwitch:hover {
+  border-top: solid $activeColor 5px;
+  border-bottom: solid $activeColor 5px;
+}
