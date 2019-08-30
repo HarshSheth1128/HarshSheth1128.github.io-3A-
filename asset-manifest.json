@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdc4d58f.chunk.css",
+    "main.js": "/static/js/main.dde67035.chunk.js",
+    "main.js.map": "/static/js/main.dde67035.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.cad2b5c9.js",
+    "runtime~main.js.map": "/static/js/runtime~main.cad2b5c9.js.map",
+    "static/js/2.45bc23ce.chunk.js": "/static/js/2.45bc23ce.chunk.js",
+    "static/js/2.45bc23ce.chunk.js.map": "/static/js/2.45bc23ce.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e208dbe7f02cfcc3076314fe228d6b92.js": "/precache-manifest.e208dbe7f02cfcc3076314fe228d6b92.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bdc4d58f.chunk.css.map": "/static/css/main.bdc4d58f.chunk.css.map",
+    "static/media/Project-Pancake.jpg": "/static/media/Project-Pancake.e267b294.jpg",
+    "static/media/android.jpg": "/static/media/android.6a25b013.jpg",
+    "static/media/email.svg": "/static/media/email.9123aa53.svg",
+    "static/media/facebook.svg": "/static/media/facebook.a45b6fec.svg",
+    "static/media/focus.png": "/static/media/focus.8a643420.png",
+    "static/media/github.svg": "/static/media/github.e22f7297.svg",
+    "static/media/grow.jpg": "/static/media/grow.d8631c5e.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.dc3a3ad8.svg",
+    "static/media/laughing.png": "/static/media/laughing.eb4fde9a.png",
+    "static/media/linkedin.svg": "/static/media/linkedin.d4665431.svg",
+    "static/media/me.png": "/static/media/me.89dda22f.png",
+    "static/media/npm.png": "/static/media/npm.b0ee68c9.png",
+    "static/media/phone.svg": "/static/media/phone.42eeb209.svg",
+    "static/media/pong.png": "/static/media/pong.997f3c47.png",
+    "static/media/reddit.jpg": "/static/media/reddit.35a2594d.jpg",
+    "static/media/tetris.jpg": "/static/media/tetris.714e837a.jpg",
+    "static/media/waterloo.jpg": "/static/media/waterloo.d238abe8.jpg",
+    "static/media/weather.jpg": "/static/media/weather.ad238b7b.jpg"
+  }
+}
