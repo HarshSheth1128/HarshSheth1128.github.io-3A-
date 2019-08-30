@@ -1,0 +1,29 @@
+.CardWrapper {
+  position: relative;
+  border-radius: 10px;
+  height: 225px;
+  width: 200px;
+  box-shadow: 5px 4px 50px black;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+  transition: 0.3s;
+}
+
+.CardWrapper:hover {
+  height: 235px;
+  width: 210px;
+}
+
+.CardTitle {
+  position: absolute;
+  top: 75%;
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #4a4948;
+  border-radius: 5px;
+}

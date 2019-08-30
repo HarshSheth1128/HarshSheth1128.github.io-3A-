@@ -4,7 +4,7 @@ const AboutPagePersonal = () => {
   return (
     <>
       <h1 style={{ textAlign: 'center' }}>
-        Hi There!&nbsp;
+        Hi there!&nbsp;
         <span role="img" aria-label="hand">
           👋🏽
         </span>
